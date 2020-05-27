@@ -1,0 +1,9 @@
+
+.DS_Store
+Podfile.lock
+Pods/
+Expense Management.xcworkspace/
+Expense Management.xcodeproj/project.xcworkspace/xcuserdata/
+Expense Management.xcodeproj/xcuserdata
+Expense Management.xcodeproj/project.xcworkspace/xcshareddata/
+
